@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+frontend/agent-distributor-frontend/node_modules/
+backend/node_modules/
+
+# Environment files
+.env
+frontend/agent-distributor-frontend/.env
+backend/.env
+
+# Optional: OS and IDE files
+.DS_Store
+*.log
+.idea/
+.vscode/
