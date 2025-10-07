@@ -42,7 +42,7 @@
     npm run dev
 
 
-Frontend
+###Frontend
 
 1. Go to the frontend folder:
 
@@ -59,7 +59,7 @@ Frontend
     npm start
 
 
-Usage
+##Usage
 
 1. Open the frontend in your browser (usually http://localhost:3000).
 
@@ -72,7 +72,7 @@ Usage
 5. View leads assigned to each agent.
 
 
-Notes
+##Notes
 
 1. Ensure MongoDB is running locally or use a cloud instance (e.g., MongoDB Atlas).
 
@@ -80,12 +80,12 @@ Notes
 
 3. Make sure the CSV/XLSX files follow the required format: FirstName, Phone, Notes.
 
-Video Demonstration
+##Video Demonstration
 
 Watch the working video demo here:
 View Demo :- https://drive.google.com/drive/folders/16cfrR1cmVsZt7QnSLWdXHzDhUboCoP_x?usp=drive_link
 
 
-License
+###License
 
 This project is for assignment/submission purposes only.
